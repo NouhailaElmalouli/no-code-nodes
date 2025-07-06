@@ -2,7 +2,7 @@
 
 # No-Code Nodes
 
-🏆 Proud to have won the "Best Overall Hack" Award with this project, in the AEC Tech Hackathon 2025 Barcelona, hosted by BIG-Bjarke Ingels Group Barcelona and organized alongside with CORE STUDIO, Thornton Tomasetti & McNeel Europe.
+🏆 Proud to have won the ***"Best Overall Hack"*** Award with this project, in the AEC Tech Hackathon 2025 Barcelona, hosted by BIG-Bjarke Ingels Group Barcelona and organized alongside with CORE STUDIO, Thornton Tomasetti & McNeel Europe.
 
 A collection of explorations focusing on building and surface data processing using n8n workflows and custom nodes.
 
